@@ -16,7 +16,9 @@
 
 | 项目 | 描述 | 仓库 |
 | ---- | ---- | ---- |
-| Outwit Theme Designer | 几维输入法 / Rime 主题可视化编辑器，支持预览与 YAML 导出 | [levelel/outwit-theme-designer](https://github.com/levelel/outwit-theme-designer) |
+| Outwit Theme Designer （第一阶段）| 几维输入法 / Rime 主题可视化编辑器，支持预览与 YAML 导出 | [levelel/outwit-theme-designer](https://github.com/levelel/outwit-theme-designer) |
+
+开源计划和进度：以官网公布为准
 
 ## 鸣谢
 
