@@ -9,8 +9,8 @@
 
 ## 资源导航
 
-- **官方网站**：<https://outwitapp.com>
-- **主题设计工具入口**：中国 <https://designer.outwitapp.com> 海外 <https://designer.outwit.app>
+- **官方网站**：中国（未上线）<https://outwitapp.com> 海外 <https://outwit.app>
+- **主题设计工具入口**：中国 （未上线）<https://designer.outwitapp.com> 海外 <https://designer.outwit.app>
 
 ## 开源项目
 
