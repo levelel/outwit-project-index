@@ -16,7 +16,9 @@
 
 | 项目 | 描述 | 仓库 |
 | ---- | ---- | ---- |
-| Outwit Theme Designer （第一阶段）| 几维输入法 / Rime 主题可视化编辑器，支持预览与 YAML 导出 | [levelel/outwit-theme-designer](https://github.com/levelel/outwit-theme-designer) |
+| Outwit Theme Designer （阶段 1）| 几维输入法 / Rime 主题可视化编辑器，支持预览与 YAML 导出 | [levelel/outwit-theme-designer](https://github.com/levelel/outwit-theme-designer) |
+| Outwit 设置工具 （阶段 2）暂未发布| 几维输入法设置编辑器，支持 YAML 导出 | 暂未发布 |
+| Outwit Witcraft Lua 插件（阶段 3）| 几维输入法 Witcraft 组件的 Lua 版本，支持主码+辅码的无分隔符、乱序输入，与 C++ 原版功能保持一致 | [levelel/outwit-witcraft-lua](https://github.com/levelel/outwit-witcraft-lua) |
 
 开源计划和进度：以官网公布为准
 
