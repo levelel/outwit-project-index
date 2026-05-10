@@ -19,6 +19,8 @@
 | Outwit Theme Designer （阶段 1）| 几维输入法 / Rime 主题可视化编辑器，支持预览与 YAML 导出 | [levelel/outwit-theme-designer](https://github.com/levelel/outwit-theme-designer) |
 | Outwit 设置工具 （阶段 2）暂未发布| 几维输入法设置编辑器，支持 YAML 导出 | 暂未发布 |
 | Outwit Witcraft Lua 插件（阶段 3）| 几维输入法 Witcraft 组件的 Lua 版本，支持主码+辅码的无分隔符、乱序输入，与 C++ 原版功能保持一致 | [levelel/outwit-witcraft-lua](https://github.com/levelel/outwit-witcraft-lua) |
+| librime-witplace | 几维输入法文本替换插件。类似 macOS 的无感替换，实时检测键盘输入并瞬间重写上屏内容。**目前强耦合 OutwitTSF，不兼容其他标准 Rime 前端。** | [levelel/librime-witplace](https://github.com/levelel/librime-witplace) |
+| librime-witogram | 基于 KenLM 的极致量化 N-gram 语法模型插件（原 octagram）。它通过双重 8-bit 量化将中大型语言模型体积压缩最高达 60%，引入对数线性模型打分架构，并通过 mmap 实现零延迟加载。 | [levelel/librime-witogram](https://github.com/levelel/librime-witogram) |
 
 开源计划和进度：以官网公布为准
 
